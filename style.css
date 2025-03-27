@@ -1,0 +1,14 @@
+.head {
+    text-align:center;
+    background-color:aquamarine;
+}
+
+.link {
+    background-color:lemonchiffon;
+}
+
+.description {
+    text-align:center;
+    background-color: yellow;
+    font-weight:bold;
+}
