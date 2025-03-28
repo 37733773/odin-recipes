@@ -3,12 +3,10 @@
     background-color:aquamarine;
 }
 
-.link {
+li {
     background-color:lemonchiffon;
+    text-align: center;
+    margin-bottom: 8px;
 }
 
-.description {
-    text-align:center;
-    background-color: yellow;
-    font-weight:bold;
-}
+

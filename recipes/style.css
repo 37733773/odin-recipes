@@ -1,0 +1,21 @@
+.description {
+    text-align:center;
+    background-color: yellow;
+    font-weight:bold;
+}
+
+h1 {
+    text-align:center;
+}
+
+.main-img{
+    display: block;
+    margin: auto;
+}
+
+.done {
+    background-color:cadetblue;
+    color:pink;
+    font-size:20px;
+}
+
